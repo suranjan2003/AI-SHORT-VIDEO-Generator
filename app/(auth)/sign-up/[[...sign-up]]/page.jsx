@@ -9,7 +9,7 @@ export default function Page() {
             alt='sign-up' width={500} height={500}
             className='w-full object-contain'/>
         </div>
-        <div className='flex justify-center items-center'>
+        <div className='flex justify-center items-center h-screen'>
             <SignUp/>
         </div>
     </div>
