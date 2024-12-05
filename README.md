@@ -9,3 +9,9 @@ Drizzle ORM (provides a way to interact with the database using type-safe querie
 
 ## stage 3 authentification
 clerk.com
+
+## add user to database
+added logic code in the provider.js file
+
+### adding google font:
+on the layout file
