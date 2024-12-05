@@ -15,3 +15,9 @@ added logic code in the provider.js file
 
 ### adding google font:
 on the layout file
+
+## Note
+dashboard
+   _components  (this is not a directory, used just for grouping)
+app
+   components   (this is a directory and also using for grouping)
