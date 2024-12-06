@@ -21,3 +21,8 @@ dashboard
    _components  (this is not a directory, used just for grouping)
 app
    components   (this is a directory and also using for grouping)
+
+Icon website --> Lucide Icons https://lucide.dev/guide/packages/lucide-react 
+      Steps..
+         1. run  npm install lucide-react
+         2. apply <icon-name/> in the code wherever you want (see icon name in the website)
