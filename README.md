@@ -26,3 +26,6 @@ Icon website --> Lucide Icons https://lucide.dev/guide/packages/lucide-react
       Steps..
          1. run  npm install lucide-react
          2. apply <icon-name/> in the code wherever you want (see icon name in the website)
+
+### some small small components like selet, button, search bar we can get the code from
+https://ui.shadcn.com/docs/components
